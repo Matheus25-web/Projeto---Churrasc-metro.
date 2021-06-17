@@ -1,0 +1,59 @@
+
+.container{
+    margin: auto;
+    width: 300px;
+    max-width: 270px;
+    background-image: url(https://www.comprerural.com/wp-content/uploads/2019/12/melhores-cortes-para-o-churrasco.jpg);
+    background-size: cover;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 25px;
+
+}
+h1{
+    margin-top: 0;
+    color: white;
+    font-weight: bolder;
+    border-bottom: 3px solid red;
+    text-align: center;
+    background:rgba(0,0,0,.3)
+}
+input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    
+}
+button{
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: wheat;
+    border-radius: 0;
+    border: none;
+    font-weight: bolder;
+
+ }
+button:hover{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color:#ffbd00;
+    border-radius: 0;
+    border: none;
+    font-weight: bolder;
+} 
+
+
+p{
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    
+}
